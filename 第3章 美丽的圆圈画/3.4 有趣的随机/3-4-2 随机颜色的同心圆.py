@@ -1,4 +1,4 @@
-# 3-4-2 随机颜色的同心圆
+# 3-4.4 特殊函数-2 随机颜色的同心圆
 import pgzrun
 import random
 
