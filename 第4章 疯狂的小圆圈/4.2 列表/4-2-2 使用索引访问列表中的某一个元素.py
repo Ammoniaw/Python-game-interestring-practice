@@ -1,4 +1,4 @@
-# 4-2-2 使用索引访问列表中元素的值
+# 4.4 特殊函数-2-2 使用索引访问列表中元素的值
 
 colors = ['red', 'orange', 'yellow', 'green', 'blue',
           'cyan', 'purple', 'white']
