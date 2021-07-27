@@ -1,4 +1,4 @@
-# 2-4-1 显示多个静止小球
+# 2-4.4 特殊函数-1 显示多个静止小球
 import pgzrun
 def draw():
     screen.fill('white')
